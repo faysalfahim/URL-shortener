@@ -18,7 +18,7 @@ MongoDB
 Clone the repository:
 
 Copy code
-git clone https://github.com/faysal-fahim/url-shortener.git
+git clone https://github.com/faysalfahim/url-shortener.git
 cd url-shortener
 
 ## Install backend dependencies:
